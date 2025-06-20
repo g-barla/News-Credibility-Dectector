@@ -1,0 +1,6 @@
+streamlit
+newspaper3k
+tldextract
+transformers
+torch
+scikit-learn
